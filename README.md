@@ -1,16 +1,88 @@
-# flashcart_new_1
+# 🛒 FlashCart
 
-A new Flutter project.
+FlashCart is a modern Flutter-based e-commerce mobile application inspired by quick-commerce platforms like Blinkit. The application provides users with a smooth, fast, and user-friendly shopping experience with secure authentication and a clean UI design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication
+    - Email & Password Login
+    - Google Sign-In
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 👤 User Profile System
+    - Profile Name Display
+    - Edit Profile
+    - Persistent Login
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🛍️ Shopping UI
+    - Product Browsing
+    - Clean Modern Design
+    - Responsive Layout
+
+- 💾 Local Storage
+    - SharedPreferences Integration
+    - Login Session Saving
+
+- ☁️ Firebase Integration
+    - Firebase Authentication
+    - Firestore Database
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+- Flutter
+- Dart
+
+### Backend & Database
+- Firebase Authentication
+- Cloud Firestore
+
+### Local Storage
+- SharedPreferences
+
+### Other Packages
+- image_picker
+- firebase_core
+- firebase_auth
+- cloud_firestore
+
+---
+
+# 📸 Screenshots
+
+## Login Screen
+(Add screenshot here)
+
+## Create Account Screen
+(Add screenshot here)
+
+## Home Screen
+(Add screenshot here)
+
+## Profile Screen
+(Add screenshot here)
+
+---
+
+# 📂 Project Structure
+
+```bash
+lib/
+│
+├── auth_service.dart
+├── main.dart
+│
+├── repository/
+│   ├── screens/
+│   │   ├── home/
+│   │   ├── login/
+│   │   ├── profile/
+│   │   ├── splash/
+│   │   └── create_account/
+│   │
+│   └── widgets/
+│
+└── custom_widgets/
