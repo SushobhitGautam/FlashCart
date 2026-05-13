@@ -54,16 +54,18 @@ FlashCart is a modern Flutter-based e-commerce mobile application inspired by qu
 # 📸 Screenshots
 
 ## Login Screen
-(Add screenshot here)
+<img width="342" height="738" alt="Screenshot 2026-05-09 at 10 21 47 AM" src="https://github.com/user-attachments/assets/4f702792-fc9b-430c-8396-aaa30b92359b" />
+
+
+
 
 ## Create Account Screen
-(Add screenshot here)
+<img width="342" height="738" alt="Screenshot 2026-05-10 at 11 00 55 AM" src="https://github.com/user-attachments/assets/eb3b3073-ef42-4745-b659-ab2c8789a4e9" />
 
-## Home Screen
-(Add screenshot here)
 
-## Profile Screen
-(Add screenshot here)
+## Home & Profile Screen
+<img width="342" height="738" alt="Screenshot 2026-05-13 at 11 43 26 AM" src="https://github.com/user-attachments/assets/fa7095bc-14cf-4f2b-be68-18b7e2703006" />
+<img width="342" height="738" alt="Screenshot 2026-05-09 at 2 05 41 PM" src="https://github.com/user-attachments/assets/071c420b-11f8-4da4-b151-a6dea2604591" />
 
 ---
 
